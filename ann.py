@@ -83,6 +83,10 @@ y_pred = (y_pred > 0.5)
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 
+# for plotting of graphs import matplotlib as plt and pot the
+#  used feature matrix
+
+
 ##  1545 + 136 correct predictions and 230 + 50 incorrect
 
 # Comput accuracy by 1545 + 136 / 2000 predictions == 0.8405 % accuracy.
