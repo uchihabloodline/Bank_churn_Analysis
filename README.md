@@ -45,5 +45,5 @@ developing any mathematical models. The various algorithms of
 the neural networks training are Hebb, Delta, Kohonen, and BP
 computation.</p>
 
-<h3> For more details regarding the ANN refer--> < a href = "https://pdfs.semanticscholar.org/573e/95abf14d5fab133c8aea8337ddfa9adf83e1.pdf"> </h3>
+<h3> For more details regarding the ANN refer--> "https://pdfs.semanticscholar.org/573e/95abf14d5fab133c8aea8337ddfa9adf83e1.pdf" </h3>
 
