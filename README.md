@@ -1,5 +1,5 @@
 # Bank_churn_Analysis [Model]
-project for rajasthan hackathon 4.0
+
 <h1>Customer bank churn analysis </h1>
 <p> A ML application to find the churners for any bank. </p>
 
@@ -26,6 +26,7 @@ might enable the firms to retain a customer [8]. So, it has
 developed into an industry-wide belief that the best core
 marketing strategy for the future is to retain existing customers
 and avoid customer churn </p>
+
 
 <h2> idea behind solution </h2>
 <p> An ANN is a complex network that comprises a large set of
