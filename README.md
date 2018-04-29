@@ -1,7 +1,7 @@
 # Bank_churn_Analysis [Model]
 
-<h1>Customer bank churn analysis </h1>
-<p> A ML application to find the churners for any bank. </p>
+<h1>Customer churn analysis </h1>
+<p> A ML application to find the churners for banks/shopping sites etc. </p>
 
 <h2> The problem </h2>
 
